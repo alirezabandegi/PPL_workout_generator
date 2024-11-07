@@ -56,6 +56,23 @@ def set_user_equipment():
     return available_equipment
 
 
+def set_workout_duration():
+    """
+    Prompts the user to set workout duration within a valid range.
+    Returns:
+        int: Desired workout duration (30 to 90 minutes).
+    """
+    prompt = "How long would you like your workout to be? (30 to 90 minutes): "
+    while True:
+        try:
+            user_input = int(input(prompt))
+            if 30 <= user_input <= 90:
+                return user_input
+            print("Invalid input. Please enter a number between 30 and 90.")
+        except ValueError:
+            print("Invalid input. Please enter a valid integer between 30 and 90.")
+
+
 def main():
     """
     Main function to gather user's fitness profile.
@@ -63,11 +80,13 @@ def main():
     user_level = set_user_level()
     user_goal = set_user_goal()
     user_equipment = set_user_equipment()
+    workout_duration = set_workout_duration()
 
     print("\nUser Profile:")
     print(f"Level: {user_level.capitalize()}")
     print(f"Goal: {user_goal.capitalize()}")
     print(f"Equipment: {', '.join(user_equipment) if user_equipment else 'None'}")
+    print(f"Workout Duration: {workout_duration} minutes")
 
 
 if __name__ == "__main__":
