@@ -13,13 +13,14 @@ def print_workout_structure():
 
 
 def print_weekly_rotation():
-    """Prints the weekly rotation plan for a 4-day PPL program."""
+    """Prints the weekly rotation plan for a PPL program."""
     rotation = (
-        "Weekly Rotation: Since you’re training four days a week, the workout days rotate each week "
+        "Weekly Rotation: the workout days rotate each week "
         "to ensure balanced muscle engagement over time:\n"
         "\t- Week 1: P-P-L-P (Push, Pull, Legs, Push)\n"
         "\t- Week 2: P-L-P-P (Push, Legs, Pull, Push)\n"
         "\t- Week 3: L-P-P-P (Legs, Push, Pull, Push)\n"
+        "\t  Continue this rotation each week.\n"
         "This rotation ensures balanced development and muscle recovery over time."
     )
     print(rotation)
