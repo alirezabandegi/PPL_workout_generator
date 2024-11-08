@@ -1,0 +1,5243 @@
+[
+  {
+      "name": "Bodyweight Squat",
+      "muscle_target": [
+          {
+              "muscle": "Quads",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Push-Up",
+      "muscle_target": [
+          {
+              "muscle": "Chest",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Plank",
+      "muscle_target": [
+          {
+              "muscle": "Core",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Glute Bridge",
+      "muscle_target": [
+          {
+              "muscle": "Glutes",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Mountain Climbers",
+      "muscle_target": [
+          {
+              "muscle": "Full Body",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "beginner",
+      "goal": [
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Walking Lunges",
+      "muscle_target": [
+          {
+              "muscle": "Quads",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain",
+          "endurance"
+      ],
+      "isSet": false,
+      "ppl": "legs"
+  },
+  {
+      "name": "Superman",
+      "muscle_target": [
+          {
+              "muscle": "Back",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Seated Knee Extension",
+      "muscle_target": [
+          {
+              "muscle": "Quads",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Hip Thrust",
+      "muscle_target": [
+          {
+              "muscle": "Glutes",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Side Leg Raises",
+      "muscle_target": [
+          {
+              "muscle": "Glutes",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Bicep Curl (Dumbbell)",
+      "muscle_target": [
+          {
+              "muscle": "Biceps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain",
+          "strength building"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Tricep Dips (Chair)",
+      "muscle_target": [
+          {
+              "muscle": "Triceps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "beginner",
+      "goal": [
+          "strength building",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Dumbbell Chest Press",
+      "muscle_target": [
+          {
+              "muscle": "Chest",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain",
+          "strength building"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Step-Ups (Bodyweight)",
+      "muscle_target": [
+          {
+              "muscle": "Quads",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Bent-Over Dumbbell Rows",
+      "muscle_target": [
+          {
+              "muscle": "Back",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Wall Sit",
+      "muscle_target": [
+          {
+              "muscle": "Quads",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Jumping Jacks",
+      "muscle_target": [
+          {
+              "muscle": "Full Body",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "beginner",
+      "goal": [
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Knee Push-Ups",
+      "muscle_target": [
+          {
+              "muscle": "Chest",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Reverse Lunges",
+      "muscle_target": [
+          {
+              "muscle": "Quads",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Standing Calf Raises",
+      "muscle_target": [
+          {
+              "muscle": "Calves",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Dumbbell Shoulder Press",
+      "muscle_target": [
+          {
+              "muscle": "Shoulders",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "beginner",
+      "goal": [
+          "strength building",
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Lateral Raises (Dumbbells)",
+      "muscle_target": [
+          {
+              "muscle": "Shoulders",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "beginner",
+      "goal": [
+          "strength building",
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Crunches",
+      "muscle_target": [
+          {
+              "muscle": "Core",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": false,
+      "ppl": "push"
+  },
+  {
+      "name": "High Knees",
+      "muscle_target": [
+          {
+              "muscle": "Full Body",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "beginner",
+      "goal": [
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Standing Oblique Crunch",
+      "muscle_target": [
+          {
+              "muscle": "Core",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain",
+          "endurance"
+      ],
+      "isSet": false,
+      "ppl": "push"
+  },
+  {
+      "name": "Leg Raises",
+      "muscle_target": [
+          {
+              "muscle": "Core",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Dumbbell Deadlifts",
+      "muscle_target": [
+          {
+              "muscle": "Full Body",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "beginner",
+      "goal": [
+          "strength building",
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Standing Dumbbell Curl",
+      "muscle_target": [
+          {
+              "muscle": "Biceps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "beginner",
+      "goal": [
+          "strength building",
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Kettlebell Swings",
+      "muscle_target": [
+          {
+              "muscle": "Full Body",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Kettlebell",
+      "intensity": "beginner",
+      "goal": [
+          "endurance",
+          "strength building"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Alternating Dumbbell Lunges",
+      "muscle_target": [
+          {
+              "muscle": "Quads",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Russian Twists",
+      "muscle_target": [
+          {
+              "muscle": "Core",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Treadmill Walking",
+      "muscle_target": [
+          {
+              "muscle": "Full Body",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Treadmill",
+      "intensity": "beginner",
+      "goal": [
+          "endurance"
+      ],
+      "isSet": false,
+      "ppl": "push"
+  },
+  {
+      "name": "Stationary Bike",
+      "muscle_target": [
+          {
+              "muscle": "Full Body",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Stationary Bike",
+      "intensity": "beginner",
+      "goal": [
+          "endurance"
+      ],
+      "isSet": false,
+      "ppl": "push"
+  },
+  {
+      "name": "Seated Row (Machine)",
+      "muscle_target": [
+          {
+              "muscle": "Back",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Machine",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Leg Press (Machine)",
+      "muscle_target": [
+          {
+              "muscle": "Quads",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Machine",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Cable Tricep Pushdowns",
+      "muscle_target": [
+          {
+              "muscle": "Triceps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Cable Machine",
+      "intensity": "beginner",
+      "goal": [
+          "strength building",
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Bicep Curl Machine",
+      "muscle_target": [
+          {
+              "muscle": "Biceps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Machine",
+      "intensity": "beginner",
+      "goal": [
+          "strength building",
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Chest Press Machine",
+      "muscle_target": [
+          {
+              "muscle": "Chest",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Machine",
+      "intensity": "beginner",
+      "goal": [
+          "strength building",
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Leg Curl Machine",
+      "muscle_target": [
+          {
+              "muscle": "Hamstrings",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Machine",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Cable Bicep Curls",
+      "muscle_target": [
+          {
+              "muscle": "Biceps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Cable Machine",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain",
+          "strength building"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Lat Pulldown Machine",
+      "muscle_target": [
+          {
+              "muscle": "Back",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Machine",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Shoulder Press Machine",
+      "muscle_target": [
+          {
+              "muscle": "Shoulders",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Machine",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain",
+          "strength building"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Leg Extension Machine",
+      "muscle_target": [
+          {
+              "muscle": "Quads",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Machine",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Dumbbell Shrugs",
+      "muscle_target": [
+          {
+              "muscle": "Rear Deltoids",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "beginner",
+      "goal": [
+          "strength building",
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Dumbbell Front Raise",
+      "muscle_target": [
+          {
+              "muscle": "Shoulders",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "beginner",
+      "goal": [
+          "strength building",
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Dumbbell Lateral Raise",
+      "muscle_target": [
+          {
+              "muscle": "Shoulders",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "beginner",
+      "goal": [
+          "strength building",
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Seated Chest Press Machine",
+      "muscle_target": [
+          {
+              "muscle": "Chest",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Machine",
+      "intensity": "beginner",
+      "goal": [
+          "strength building",
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Kettlebell Goblet Squat",
+      "muscle_target": [
+          {
+              "muscle": "Quads",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Kettlebell",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Single-Leg Romanian Deadlift (Dumbbell)",
+      "muscle_target": [
+          {
+              "muscle": "Hamstrings",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Deadbug",
+      "muscle_target": [
+          {
+              "muscle": "Core",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Caterpillar Walk",
+      "muscle_target": [
+          {
+              "muscle": "Core",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain",
+          "endurance"
+      ],
+      "isSet": false,
+      "ppl": "push"
+  },
+  {
+      "name": "Leg Circles",
+      "muscle_target": [
+          {
+              "muscle": "Core",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Standing Knee to Elbow",
+      "muscle_target": [
+          {
+              "muscle": "Core",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Bear Crawl",
+      "muscle_target": [
+          {
+              "muscle": "Full Body",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Jumping Lunges",
+      "muscle_target": [
+          {
+              "muscle": "Quads",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Donkey Kicks",
+      "muscle_target": [
+          {
+              "muscle": "Glutes",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Bear Plank",
+      "muscle_target": [
+          {
+              "muscle": "Core",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Chest Fly (Dumbbells)",
+      "muscle_target": [
+          {
+              "muscle": "Chest",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "beginner",
+      "goal": [
+          "strength building",
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Brisk Walking",
+      "muscle_target": [
+          {
+              "muscle": "Full Body",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "None",
+      "intensity": "beginner",
+      "goal": [
+          "weight loss"
+      ],
+      "isSet": false,
+      "ppl": "push"
+  },
+  {
+      "name": "Jump Rope (Slow Pace)",
+      "muscle_target": [
+          {
+              "muscle": "Full Body",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Jump Rope",
+      "intensity": "beginner",
+      "goal": [
+          "weight loss"
+      ],
+      "isSet": false,
+      "ppl": "push"
+  },
+  {
+      "name": "Low-Impact Aerobics",
+      "muscle_target": [
+          {
+              "muscle": "Full Body",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "beginner",
+      "goal": [
+          "weight loss"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Seated Marching",
+      "muscle_target": [
+          {
+              "muscle": "Legs",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "None",
+      "intensity": "beginner",
+      "goal": [
+          "weight loss"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Modified Squats",
+      "muscle_target": [
+          {
+              "muscle": "Legs",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "beginner",
+      "goal": [
+          "weight loss"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Water Aerobics",
+      "muscle_target": [
+          {
+              "muscle": "Full Body",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Pool",
+      "intensity": "beginner",
+      "goal": [
+          "weight loss"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Low-Impact Cycling",
+      "muscle_target": [
+          {
+              "muscle": "Legs",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Stationary Bike",
+      "intensity": "beginner",
+      "goal": [
+          "weight loss"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Side Step with Resistance Band",
+      "muscle_target": [
+          {
+              "muscle": "Glutes",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Legs",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Resistance Band",
+      "intensity": "beginner",
+      "goal": [
+          "weight loss"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Rowing (Moderate)",
+      "muscle_target": [
+          {
+              "muscle": "Back",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Arms",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Rowing Machine",
+      "intensity": "beginner",
+      "goal": [
+          "weight loss"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Standing Toe Taps",
+      "muscle_target": [
+          {
+              "muscle": "Legs",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Core",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "beginner",
+      "goal": [
+          "weight loss"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Hamstrings Crunch",
+      "muscle_target": [
+          {
+              "muscle": "Hamstrings",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "beginner",
+      "goal": [
+          "endurance",
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Chest Press",
+      "muscle_target": [
+          {
+              "muscle": "Chest",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Core Push",
+      "muscle_target": [
+          {
+              "muscle": "Core",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Triceps",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "beginner",
+      "goal": [
+          "weight loss"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Calves Step-Up",
+      "muscle_target": [
+          {
+              "muscle": "Calves",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Quads",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Kettlebell",
+      "intensity": "beginner",
+      "goal": [
+          "weight loss"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Rear Deltoids Stretch",
+      "muscle_target": [
+          {
+              "muscle": "Rear Deltoids",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Cable Machine",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain",
+          "endurance"
+      ],
+      "isSet": false,
+      "ppl": "pull"
+  },
+  {
+      "name": "Shoulders Step-Up",
+      "muscle_target": [
+          {
+              "muscle": "Shoulders",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Core",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Cable Machine",
+      "intensity": "beginner",
+      "goal": [
+          "weight loss"
+      ],
+      "isSet": false,
+      "ppl": "push"
+  },
+  {
+      "name": "Biceps Raise",
+      "muscle_target": [
+          {
+              "muscle": "Biceps",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Rear Deltoids",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Machine",
+      "intensity": "beginner",
+      "goal": [
+          "endurance",
+          "muscle gain"
+      ],
+      "isSet": false,
+      "ppl": "pull"
+  },
+  {
+      "name": "Chest Stretch",
+      "muscle_target": [
+          {
+              "muscle": "Chest",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Core",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Machine",
+      "intensity": "beginner",
+      "goal": [
+          "endurance",
+          "strength building"
+      ],
+      "isSet": false,
+      "ppl": "push"
+  },
+  {
+      "name": "Calves Kickback",
+      "muscle_target": [
+          {
+              "muscle": "Calves",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Machine",
+      "intensity": "beginner",
+      "goal": [
+          "strength building",
+          "weight loss"
+      ],
+      "isSet": false,
+      "ppl": "legs"
+  },
+  {
+      "name": "Triceps Kickback",
+      "muscle_target": [
+          {
+              "muscle": "Triceps",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Core",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "beginner",
+      "goal": [
+          "strength building",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Shoulders Squat",
+      "muscle_target": [
+          {
+              "muscle": "Shoulders",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Triceps",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Cable Machine",
+      "intensity": "beginner",
+      "goal": [
+          "endurance",
+          "muscle gain"
+      ],
+      "isSet": false,
+      "ppl": "push"
+  },
+  {
+      "name": "Back Raise",
+      "muscle_target": [
+          {
+              "muscle": "Back",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Resistance Bands",
+      "intensity": "beginner",
+      "goal": [
+          "weight loss",
+          "strength building"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Quads Extension",
+      "muscle_target": [
+          {
+              "muscle": "Quads",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Hamstrings",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Kettlebell",
+      "intensity": "beginner",
+      "goal": [
+          "strength building"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Back Push",
+      "muscle_target": [
+          {
+              "muscle": "Back",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Rear Deltoids",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Cable Machine",
+      "intensity": "beginner",
+      "goal": [
+          "weight loss"
+      ],
+      "isSet": false,
+      "ppl": "pull"
+  },
+  {
+      "name": "Chest Row",
+      "muscle_target": [
+          {
+              "muscle": "Chest",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Shoulders",
+              "role": "Secondary"
+          },
+          {
+              "muscle": "Core",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Machine",
+      "intensity": "beginner",
+      "goal": [
+          "strength building"
+      ],
+      "isSet": false,
+      "ppl": "push"
+  },
+  {
+      "name": "Calves Swing",
+      "muscle_target": [
+          {
+              "muscle": "Calves",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Quads Squat",
+      "muscle_target": [
+          {
+              "muscle": "Quads",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Calves",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "beginner",
+      "goal": [
+          "weight loss",
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Triceps Press",
+      "muscle_target": [
+          {
+              "muscle": "Triceps",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Shoulders",
+              "role": "Secondary"
+          },
+          {
+              "muscle": "Core",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Core Thrust",
+      "muscle_target": [
+          {
+              "muscle": "Core",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "beginner",
+      "goal": [
+          "endurance",
+          "strength building"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Calves Row",
+      "muscle_target": [
+          {
+              "muscle": "Calves",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Quads",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Kettlebell",
+      "intensity": "beginner",
+      "goal": [
+          "endurance",
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Back Lift",
+      "muscle_target": [
+          {
+              "muscle": "Back",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Resistance Bands",
+      "intensity": "beginner",
+      "goal": [
+          "strength building",
+          "weight loss"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Back Curl",
+      "muscle_target": [
+          {
+              "muscle": "Back",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Machine",
+      "intensity": "beginner",
+      "goal": [
+          "weight loss"
+      ],
+      "isSet": false,
+      "ppl": "pull"
+  },
+  {
+      "name": "Quads Dip",
+      "muscle_target": [
+          {
+              "muscle": "Quads",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Calves",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "beginner",
+      "goal": [
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Triceps Dip",
+      "muscle_target": [
+          {
+              "muscle": "Triceps",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Chest",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "beginner",
+      "goal": [
+          "weight loss",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Biceps Kickback",
+      "muscle_target": [
+          {
+              "muscle": "Biceps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "beginner",
+      "goal": [
+          "strength building"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Biceps Extension",
+      "muscle_target": [
+          {
+              "muscle": "Biceps",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Back",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Machine",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain",
+          "strength building"
+      ],
+      "isSet": false,
+      "ppl": "pull"
+  },
+  {
+      "name": "Shoulders Stretch",
+      "muscle_target": [
+          {
+              "muscle": "Shoulders",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Chest",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain",
+          "strength building"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Beginner Chest Fly",
+      "muscle_target": [
+          {
+              "muscle": "Chest",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Beginner Shoulder Press",
+      "muscle_target": [
+          {
+              "muscle": "Shoulders",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Beginner Tricep Kickback",
+      "muscle_target": [
+          {
+              "muscle": "Triceps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Barbell Squat",
+      "muscle_target": [
+          {
+              "muscle": "Quads",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "intermediate",
+      "goal": [
+          "strength building",
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Deadlift",
+      "muscle_target": [
+          {
+              "muscle": "Full Body",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "intermediate",
+      "goal": [
+          "strength building",
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Pull-Up",
+      "muscle_target": [
+          {
+              "muscle": "Back",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "intermediate",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Bench Press",
+      "muscle_target": [
+          {
+              "muscle": "Chest",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "intermediate",
+      "goal": [
+          "strength building",
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Overhead Press",
+      "muscle_target": [
+          {
+              "muscle": "Shoulders",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "intermediate",
+      "goal": [
+          "strength building",
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Lunges (Dumbbells)",
+      "muscle_target": [
+          {
+              "muscle": "Quads",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "intermediate",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Incline Dumbbell Press",
+      "muscle_target": [
+          {
+              "muscle": "Chest",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "intermediate",
+      "goal": [
+          "strength building",
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Bent-Over Barbell Row",
+      "muscle_target": [
+          {
+              "muscle": "Back",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "intermediate",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Romanian Deadlift",
+      "muscle_target": [
+          {
+              "muscle": "Hamstrings",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "intermediate",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "T-Bar Row",
+      "muscle_target": [
+          {
+              "muscle": "Back",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Machine",
+      "intensity": "intermediate",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Dumbbell Step-Ups",
+      "muscle_target": [
+          {
+              "muscle": "Quads",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "intermediate",
+      "goal": [
+          "muscle gain",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Leg Press",
+      "muscle_target": [
+          {
+              "muscle": "Quads",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Machine",
+      "intensity": "intermediate",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Seated Row (Cable)",
+      "muscle_target": [
+          {
+              "muscle": "Back",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Cable",
+      "intensity": "intermediate",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Leg Curl (Machine)",
+      "muscle_target": [
+          {
+              "muscle": "Hamstrings",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Machine",
+      "intensity": "intermediate",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Barbell Hip Thrust",
+      "muscle_target": [
+          {
+              "muscle": "Glutes",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "intermediate",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Kettlebell Swing",
+      "muscle_target": [
+          {
+              "muscle": "Full Body",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Kettlebell",
+      "intensity": "intermediate",
+      "goal": [
+          "strength building",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Cable Tricep Pushdown",
+      "muscle_target": [
+          {
+              "muscle": "Triceps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Cable",
+      "intensity": "intermediate",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Dumbbell Bicep Curl",
+      "muscle_target": [
+          {
+              "muscle": "Biceps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "intermediate",
+      "goal": [
+          "strength building",
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Face Pulls",
+      "muscle_target": [
+          {
+              "muscle": "Shoulders",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Cable",
+      "intensity": "intermediate",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Barbell Shrug",
+      "muscle_target": [
+          {
+              "muscle": "Shoulders",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "intermediate",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Single-Leg Deadlift (Dumbbell)",
+      "muscle_target": [
+          {
+              "muscle": "Hamstrings",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "intermediate",
+      "goal": [
+          "muscle gain",
+          "strength building"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Weighted Step-Ups",
+      "muscle_target": [
+          {
+              "muscle": "Quads",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "intermediate",
+      "goal": [
+          "muscle gain",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Cable Bicep Curl",
+      "muscle_target": [
+          {
+              "muscle": "Biceps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Cable",
+      "intensity": "intermediate",
+      "goal": [
+          "strength building",
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Dumbbell Romanian Deadlift",
+      "muscle_target": [
+          {
+              "muscle": "Hamstrings",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "intermediate",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Sumo Deadlift",
+      "muscle_target": [
+          {
+              "muscle": "Full Body",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "intermediate",
+      "goal": [
+          "strength building",
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Barbell Front Squat",
+      "muscle_target": [
+          {
+              "muscle": "Quads",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "intermediate",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Barbell Rows",
+      "muscle_target": [
+          {
+              "muscle": "Back",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "intermediate",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Tricep Dips",
+      "muscle_target": [
+          {
+              "muscle": "Triceps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "intermediate",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Kettlebell Clean and Press",
+      "muscle_target": [
+          {
+              "muscle": "Full Body",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Kettlebell",
+      "intensity": "intermediate",
+      "goal": [
+          "strength building",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Bulgarian Split Squat",
+      "muscle_target": [
+          {
+              "muscle": "Quads",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "intermediate",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Cable Lateral Raise",
+      "muscle_target": [
+          {
+              "muscle": "Shoulders",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Cable",
+      "intensity": "intermediate",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Hack Squat Machine",
+      "muscle_target": [
+          {
+              "muscle": "Quads",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Machine",
+      "intensity": "intermediate",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Box Jumps",
+      "muscle_target": [
+          {
+              "muscle": "Quads",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "intermediate",
+      "goal": [
+          "muscle gain",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Clapping Push-Ups",
+      "muscle_target": [
+          {
+              "muscle": "Chest",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "intermediate",
+      "goal": [
+          "strength building",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Dumbbell Reverse Lunges",
+      "muscle_target": [
+          {
+              "muscle": "Quads",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "intermediate",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Lateral Lunge (Dumbbell)",
+      "muscle_target": [
+          {
+              "muscle": "Quads",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "intermediate",
+      "goal": [
+          "muscle gain",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Machine Leg Press",
+      "muscle_target": [
+          {
+              "muscle": "Quads",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Machine",
+      "intensity": "intermediate",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Renegade Rows",
+      "muscle_target": [
+          {
+              "muscle": "Back",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "intermediate",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Dumbbell Arnold Press",
+      "muscle_target": [
+          {
+              "muscle": "Shoulders",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "intermediate",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Skull Crushers (EZ Bar)",
+      "muscle_target": [
+          {
+              "muscle": "Triceps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "EZ Bar",
+      "intensity": "intermediate",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Single-Leg Squat (Assisted)",
+      "muscle_target": [
+          {
+              "muscle": "Quads",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "intermediate",
+      "goal": [
+          "muscle gain",
+          "strength building"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Kettlebell Snatch",
+      "muscle_target": [
+          {
+              "muscle": "Full Body",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Kettlebell",
+      "intensity": "intermediate",
+      "goal": [
+          "strength building",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Dumbbell Sumo Deadlift",
+      "muscle_target": [
+          {
+              "muscle": "Hamstrings",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "intermediate",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Medicine Ball Slams",
+      "muscle_target": [
+          {
+              "muscle": "Full Body",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Medicine Ball",
+      "intensity": "intermediate",
+      "goal": [
+          "endurance",
+          "strength building"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Kettlebell Russian Twist",
+      "muscle_target": [
+          {
+              "muscle": "Core",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Kettlebell",
+      "intensity": "intermediate",
+      "goal": [
+          "muscle gain",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Single-Arm Dumbbell Row",
+      "muscle_target": [
+          {
+              "muscle": "Back",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "intermediate",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Dumbbell Thrusters",
+      "muscle_target": [
+          {
+              "muscle": "Full Body",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "intermediate",
+      "goal": [
+          "strength building",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Goblet Squat",
+      "muscle_target": [
+          {
+              "muscle": "Quads",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Kettlebell",
+      "intensity": "intermediate",
+      "goal": [
+          "muscle gain",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Weighted Pull-Ups",
+      "muscle_target": [
+          {
+              "muscle": "Back",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "intermediate",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Cable Chest Fly",
+      "muscle_target": [
+          {
+              "muscle": "Chest",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Cable",
+      "intensity": "intermediate",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Standing Calf Raises (Barbell)",
+      "muscle_target": [
+          {
+              "muscle": "Calves",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "intermediate",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Barbell Bench Press (Incline)",
+      "muscle_target": [
+          {
+              "muscle": "Chest",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "intermediate",
+      "goal": [
+          "strength building",
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Kettlebell Clean and Jerk",
+      "muscle_target": [
+          {
+              "muscle": "Full Body",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Kettlebell",
+      "intensity": "intermediate",
+      "goal": [
+          "strength building",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Elliptical Machine",
+      "muscle_target": [
+          {
+              "muscle": "Full Body",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Elliptical",
+      "intensity": "intermediate",
+      "goal": [
+          "weight loss"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Burpees",
+      "muscle_target": [
+          {
+              "muscle": "Full Body",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "intermediate",
+      "goal": [
+          "weight loss"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Jumping Rope",
+      "muscle_target": [
+          {
+              "muscle": "Full Body",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Jump Rope",
+      "intensity": "intermediate",
+      "goal": [
+          "weight loss"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Box Step-Ups",
+      "muscle_target": [
+          {
+              "muscle": "Legs",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Glutes",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Box",
+      "intensity": "intermediate",
+      "goal": [
+          "weight loss"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Battle Ropes",
+      "muscle_target": [
+          {
+              "muscle": "Arms",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Shoulders",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Battle Rope",
+      "intensity": "intermediate",
+      "goal": [
+          "weight loss"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Cycling",
+      "muscle_target": [
+          {
+              "muscle": "Legs",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Stationary Bike",
+      "intensity": "intermediate",
+      "goal": [
+          "weight loss"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Power Walking",
+      "muscle_target": [
+          {
+              "muscle": "Full Body",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "None",
+      "intensity": "intermediate",
+      "goal": [
+          "weight loss"
+      ],
+      "isSet": false,
+      "ppl": "push"
+  },
+  {
+      "name": "Plank Jacks",
+      "muscle_target": [
+          {
+              "muscle": "Core",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Shoulders",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "intermediate",
+      "goal": [
+          "weight loss"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Glutes Fly",
+      "muscle_target": [
+          {
+              "muscle": "Glutes",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Smith Machine",
+      "intensity": "intermediate",
+      "goal": [
+          "endurance"
+      ],
+      "isSet": false,
+      "ppl": "legs"
+  },
+  {
+      "name": "Back Crunch",
+      "muscle_target": [
+          {
+              "muscle": "Back",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "intermediate",
+      "goal": [
+          "weight loss"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Rear Deltoids Step-Up",
+      "muscle_target": [
+          {
+              "muscle": "Rear Deltoids",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Biceps",
+              "role": "Secondary"
+          },
+          {
+              "muscle": "Back",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "intermediate",
+      "goal": [
+          "weight loss"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Back Stretch",
+      "muscle_target": [
+          {
+              "muscle": "Back",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Rear Deltoids",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Resistance Bands",
+      "intensity": "intermediate",
+      "goal": [
+          "muscle gain",
+          "strength building"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Biceps Push",
+      "muscle_target": [
+          {
+              "muscle": "Biceps",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Back",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "intermediate",
+      "goal": [
+          "endurance",
+          "weight loss"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Calves Crunch",
+      "muscle_target": [
+          {
+              "muscle": "Calves",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Glutes",
+              "role": "Secondary"
+          },
+          {
+              "muscle": "Hamstrings",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "intermediate",
+      "goal": [
+          "weight loss"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Rear Deltoids Thrust",
+      "muscle_target": [
+          {
+              "muscle": "Rear Deltoids",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Back",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Cable Machine",
+      "intensity": "intermediate",
+      "goal": [
+          "muscle gain",
+          "weight loss"
+      ],
+      "isSet": false,
+      "ppl": "pull"
+  },
+  {
+      "name": "Biceps Stretch",
+      "muscle_target": [
+          {
+              "muscle": "Biceps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "intermediate",
+      "goal": [
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Chest Dip",
+      "muscle_target": [
+          {
+              "muscle": "Chest",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Triceps",
+              "role": "Secondary"
+          },
+          {
+              "muscle": "Shoulders",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Machine",
+      "intensity": "intermediate",
+      "goal": [
+          "endurance",
+          "weight loss"
+      ],
+      "isSet": false,
+      "ppl": "push"
+  },
+  {
+      "name": "Chest Crunch",
+      "muscle_target": [
+          {
+              "muscle": "Chest",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Triceps",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "intermediate",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Chest Extension",
+      "muscle_target": [
+          {
+              "muscle": "Chest",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "intermediate",
+      "goal": [
+          "endurance",
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Rear Deltoids Push",
+      "muscle_target": [
+          {
+              "muscle": "Rear Deltoids",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Back",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Machine",
+      "intensity": "intermediate",
+      "goal": [
+          "strength building"
+      ],
+      "isSet": false,
+      "ppl": "pull"
+  },
+  {
+      "name": "Triceps Thrust",
+      "muscle_target": [
+          {
+              "muscle": "Triceps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Cable Machine",
+      "intensity": "intermediate",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": false,
+      "ppl": "push"
+  },
+  {
+      "name": "Glutes Curl",
+      "muscle_target": [
+          {
+              "muscle": "Glutes",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Hamstrings",
+              "role": "Secondary"
+          },
+          {
+              "muscle": "Quads",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Machine",
+      "intensity": "intermediate",
+      "goal": [
+          "weight loss"
+      ],
+      "isSet": false,
+      "ppl": "legs"
+  },
+  {
+      "name": "Back Row",
+      "muscle_target": [
+          {
+              "muscle": "Back",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Biceps",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "intermediate",
+      "goal": [
+          "strength building"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Back Extension",
+      "muscle_target": [
+          {
+              "muscle": "Back",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Cable Machine",
+      "intensity": "intermediate",
+      "goal": [
+          "strength building"
+      ],
+      "isSet": false,
+      "ppl": "pull"
+  },
+  {
+      "name": "Triceps Pull",
+      "muscle_target": [
+          {
+              "muscle": "Triceps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Machine",
+      "intensity": "intermediate",
+      "goal": [
+          "weight loss"
+      ],
+      "isSet": false,
+      "ppl": "push"
+  },
+  {
+      "name": "Glutes Squat",
+      "muscle_target": [
+          {
+              "muscle": "Glutes",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "intermediate",
+      "goal": [
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Triceps Extension",
+      "muscle_target": [
+          {
+              "muscle": "Triceps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "intermediate",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Chest Raise",
+      "muscle_target": [
+          {
+              "muscle": "Chest",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "intermediate",
+      "goal": [
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Back Press",
+      "muscle_target": [
+          {
+              "muscle": "Back",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Cable Machine",
+      "intensity": "intermediate",
+      "goal": [
+          "muscle gain",
+          "endurance"
+      ],
+      "isSet": false,
+      "ppl": "pull"
+  },
+  {
+      "name": "Back Fly",
+      "muscle_target": [
+          {
+              "muscle": "Back",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Rear Deltoids",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "intermediate",
+      "goal": [
+          "muscle gain",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Glutes Row",
+      "muscle_target": [
+          {
+              "muscle": "Glutes",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Calves",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "intermediate",
+      "goal": [
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Core Extension",
+      "muscle_target": [
+          {
+              "muscle": "Core",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Cable Machine",
+      "intensity": "intermediate",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": false,
+      "ppl": "push"
+  },
+  {
+      "name": "Rear Deltoids Press",
+      "muscle_target": [
+          {
+              "muscle": "Rear Deltoids",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Biceps",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Resistance Bands",
+      "intensity": "intermediate",
+      "goal": [
+          "weight loss"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Biceps Crunch",
+      "muscle_target": [
+          {
+              "muscle": "Biceps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "intermediate",
+      "goal": [
+          "strength building"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Triceps Row",
+      "muscle_target": [
+          {
+              "muscle": "Triceps",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Chest",
+              "role": "Secondary"
+          },
+          {
+              "muscle": "Core",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "intermediate",
+      "goal": [
+          "weight loss",
+          "strength building"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Triceps Push",
+      "muscle_target": [
+          {
+              "muscle": "Triceps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "intermediate",
+      "goal": [
+          "strength building"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Hamstrings Extension",
+      "muscle_target": [
+          {
+              "muscle": "Hamstrings",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Glutes",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "intermediate",
+      "goal": [
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Core Raise",
+      "muscle_target": [
+          {
+              "muscle": "Core",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "intermediate",
+      "goal": [
+          "weight loss"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Intermediate Chest Dip",
+      "muscle_target": [
+          {
+              "muscle": "Chest",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dip Bars",
+      "intensity": "intermediate",
+      "goal": [
+          "strength building"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Intermediate Arnold Press",
+      "muscle_target": [
+          {
+              "muscle": "Shoulders",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "intermediate",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Intermediate Skull Crushers",
+      "muscle_target": [
+          {
+              "muscle": "Triceps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "EZ Bar",
+      "intensity": "intermediate",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Barbell Squat (Heavy)",
+      "muscle_target": [
+          {
+              "muscle": "Quads",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "advanced",
+      "goal": [
+          "strength building",
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Deadlift (Heavy)",
+      "muscle_target": [
+          {
+              "muscle": "Back",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "advanced",
+      "goal": [
+          "strength building",
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Snatch",
+      "muscle_target": [
+          {
+              "muscle": "Full Body",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "advanced",
+      "goal": [
+          "strength building"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Clean and Jerk",
+      "muscle_target": [
+          {
+              "muscle": "Full Body",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "advanced",
+      "goal": [
+          "strength building"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Front Squat (Heavy)",
+      "muscle_target": [
+          {
+              "muscle": "Quads",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "advanced",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Overhead Press (Heavy)",
+      "muscle_target": [
+          {
+              "muscle": "Shoulders",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "advanced",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Pull-Up (Weighted)",
+      "muscle_target": [
+          {
+              "muscle": "Back",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "advanced",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Bent-Over Barbell Row (Heavy)",
+      "muscle_target": [
+          {
+              "muscle": "Back",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "advanced",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Chest Press (Heavy)",
+      "muscle_target": [
+          {
+              "muscle": "Chest",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "advanced",
+      "goal": [
+          "strength building",
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Dips (Weighted)",
+      "muscle_target": [
+          {
+              "muscle": "Triceps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "advanced",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Kettlebell Snatch (Heavy)",
+      "muscle_target": [
+          {
+              "muscle": "Full Body",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Kettlebell",
+      "intensity": "advanced",
+      "goal": [
+          "strength building"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Barbell Hip Thrust (Heavy)",
+      "muscle_target": [
+          {
+              "muscle": "Glutes",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "advanced",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Muscle-Up",
+      "muscle_target": [
+          {
+              "muscle": "Full Body",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "advanced",
+      "goal": [
+          "strength building"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Weighted Chin-Up",
+      "muscle_target": [
+          {
+              "muscle": "Back",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "advanced",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Squat Jump (Weighted)",
+      "muscle_target": [
+          {
+              "muscle": "Quads",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "advanced",
+      "goal": [
+          "muscle gain",
+          "strength building"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Single-Leg Deadlift (Barbell)",
+      "muscle_target": [
+          {
+              "muscle": "Hamstrings",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "advanced",
+      "goal": [
+          "muscle gain",
+          "strength building"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Handstand Push-Up",
+      "muscle_target": [
+          {
+              "muscle": "Shoulders",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "advanced",
+      "goal": [
+          "muscle gain",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Barbell Power Clean",
+      "muscle_target": [
+          {
+              "muscle": "Full Body",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "advanced",
+      "goal": [
+          "strength building"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Barbell Bench Press (Paused)",
+      "muscle_target": [
+          {
+              "muscle": "Chest",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "advanced",
+      "goal": [
+          "strength building",
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Sled Push/Pull",
+      "muscle_target": [
+          {
+              "muscle": "Full Body",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Sled",
+      "intensity": "advanced",
+      "goal": [
+          "strength building",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Clean Pull",
+      "muscle_target": [
+          {
+              "muscle": "Full Body",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "advanced",
+      "goal": [
+          "strength building"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Box Jumps (High)",
+      "muscle_target": [
+          {
+              "muscle": "Quads",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "advanced",
+      "goal": [
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Incline Barbell Bench Press",
+      "muscle_target": [
+          {
+              "muscle": "Chest",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "advanced",
+      "goal": [
+          "strength building",
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Tire Flips",
+      "muscle_target": [
+          {
+              "muscle": "Full Body",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Tire",
+      "intensity": "advanced",
+      "goal": [
+          "strength building"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Pistol Squats",
+      "muscle_target": [
+          {
+              "muscle": "Quads",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "advanced",
+      "goal": [
+          "muscle gain",
+          "strength building"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Barbell Zercher Squat",
+      "muscle_target": [
+          {
+              "muscle": "Quads",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "advanced",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Overhead Squat",
+      "muscle_target": [
+          {
+              "muscle": "Quads",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "advanced",
+      "goal": [
+          "muscle gain",
+          "strength building"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Dragon Flag",
+      "muscle_target": [
+          {
+              "muscle": "Core",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "advanced",
+      "goal": [
+          "muscle gain",
+          "strength building"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Barbell Thrusters",
+      "muscle_target": [
+          {
+              "muscle": "Full Body",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "advanced",
+      "goal": [
+          "strength building",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Kettlebell Turkish Get-Up",
+      "muscle_target": [
+          {
+              "muscle": "Full Body",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Kettlebell",
+      "intensity": "advanced",
+      "goal": [
+          "strength building"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Squat Clean",
+      "muscle_target": [
+          {
+              "muscle": "Quads",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "advanced",
+      "goal": [
+          "muscle gain",
+          "strength building"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Medicine Ball Chest Pass",
+      "muscle_target": [
+          {
+              "muscle": "Chest",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Medicine Ball",
+      "intensity": "advanced",
+      "goal": [
+          "strength building"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Lateral Barbell Lunge",
+      "muscle_target": [
+          {
+              "muscle": "Quads",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "advanced",
+      "goal": [
+          "muscle gain",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Kettlebell Front Squat",
+      "muscle_target": [
+          {
+              "muscle": "Quads",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Kettlebell",
+      "intensity": "advanced",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Weighted Plank",
+      "muscle_target": [
+          {
+              "muscle": "Core",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "advanced",
+      "goal": [
+          "muscle gain",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Weighted Walking Lunges",
+      "muscle_target": [
+          {
+              "muscle": "Quads",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "advanced",
+      "goal": [
+          "muscle gain",
+          "endurance"
+      ],
+      "isSet": false,
+      "ppl": "legs"
+  },
+  {
+      "name": "Kettlebell Swing (Heavy)",
+      "muscle_target": [
+          {
+              "muscle": "Full Body",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Kettlebell",
+      "intensity": "advanced",
+      "goal": [
+          "strength building",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Barbell Reverse Lunge",
+      "muscle_target": [
+          {
+              "muscle": "Glutes",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "advanced",
+      "goal": [
+          "muscle gain",
+          "strength building"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Single-Arm Dumbbell Snatch",
+      "muscle_target": [
+          {
+              "muscle": "Full Body",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dumbbell",
+      "intensity": "advanced",
+      "goal": [
+          "strength building"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Kettlebell Renegade Row",
+      "muscle_target": [
+          {
+              "muscle": "Back",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Kettlebell",
+      "intensity": "advanced",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Weighted Burpees",
+      "muscle_target": [
+          {
+              "muscle": "Full Body",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "advanced",
+      "goal": [
+          "strength building",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Handstand Walk",
+      "muscle_target": [
+          {
+              "muscle": "Shoulders",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "advanced",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": false,
+      "ppl": "push"
+  },
+  {
+      "name": "Barbell Good Morning",
+      "muscle_target": [
+          {
+              "muscle": "Hamstrings",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "advanced",
+      "goal": [
+          "muscle gain",
+          "strength building"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Barbell Lunges (Walking)",
+      "muscle_target": [
+          {
+              "muscle": "Quads",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "advanced",
+      "goal": [
+          "muscle gain",
+          "strength building"
+      ],
+      "isSet": false,
+      "ppl": "legs"
+  },
+  {
+      "name": "Ring Dips",
+      "muscle_target": [
+          {
+              "muscle": "Triceps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Rings",
+      "intensity": "advanced",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Atlas Stones",
+      "muscle_target": [
+          {
+              "muscle": "Full Body",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Atlas Stone",
+      "intensity": "advanced",
+      "goal": [
+          "strength building"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Bulgarian Split Squat (Heavy)",
+      "muscle_target": [
+          {
+              "muscle": "Quads",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "advanced",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Weighted Box Jumps",
+      "muscle_target": [
+          {
+              "muscle": "Quads",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "advanced",
+      "goal": [
+          "strength building"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Barbell Thruster (Heavy)",
+      "muscle_target": [
+          {
+              "muscle": "Full Body",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "advanced",
+      "goal": [
+          "strength building",
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "GHD Sit-Up",
+      "muscle_target": [
+          {
+              "muscle": "Core",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "GHD Machine",
+      "intensity": "advanced",
+      "goal": [
+          "muscle gain",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "HIIT Sprints",
+      "muscle_target": [
+          {
+              "muscle": "Full Body",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "None",
+      "intensity": "advanced",
+      "goal": [
+          "weight loss"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Thrusters",
+      "muscle_target": [
+          {
+              "muscle": "Full Body",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dumbbell",
+      "intensity": "advanced",
+      "goal": [
+          "weight loss"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Plyometric Push-Ups",
+      "muscle_target": [
+          {
+              "muscle": "Chest",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Arms",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "advanced",
+      "goal": [
+          "weight loss"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Rowing (High Intensity)",
+      "muscle_target": [
+          {
+              "muscle": "Back",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Arms",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Rowing Machine",
+      "intensity": "advanced",
+      "goal": [
+          "weight loss"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Agility Ladder Drills",
+      "muscle_target": [
+          {
+              "muscle": "Full Body",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Agility Ladder",
+      "intensity": "advanced",
+      "goal": [
+          "weight loss"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Battle Rope Slams",
+      "muscle_target": [
+          {
+              "muscle": "Arms",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Core",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Battle Rope",
+      "intensity": "advanced",
+      "goal": [
+          "weight loss"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Burpee Pull-Ups",
+      "muscle_target": [
+          {
+              "muscle": "Full Body",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Pull-Up Bar",
+      "intensity": "advanced",
+      "goal": [
+          "weight loss"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Rear Deltoids Lift",
+      "muscle_target": [
+          {
+              "muscle": "Rear Deltoids",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "advanced",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Core Dip",
+      "muscle_target": [
+          {
+              "muscle": "Core",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Triceps",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "advanced",
+      "goal": [
+          "strength building"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Glutes Stretch",
+      "muscle_target": [
+          {
+              "muscle": "Glutes",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Quads",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "advanced",
+      "goal": [
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Quads Lift",
+      "muscle_target": [
+          {
+              "muscle": "Quads",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Calves",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "advanced",
+      "goal": [
+          "muscle gain",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Calves Stretch",
+      "muscle_target": [
+          {
+              "muscle": "Calves",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Machine",
+      "intensity": "advanced",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": false,
+      "ppl": "legs"
+  },
+  {
+      "name": "Calves Squat",
+      "muscle_target": [
+          {
+              "muscle": "Calves",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Quads",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Machine",
+      "intensity": "advanced",
+      "goal": [
+          "strength building",
+          "endurance"
+      ],
+      "isSet": false,
+      "ppl": "legs"
+  },
+  {
+      "name": "Hamstrings Lift",
+      "muscle_target": [
+          {
+              "muscle": "Hamstrings",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Kettlebell",
+      "intensity": "advanced",
+      "goal": [
+          "strength building",
+          "weight loss"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Hamstrings Stretch",
+      "muscle_target": [
+          {
+              "muscle": "Hamstrings",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Calves",
+              "role": "Secondary"
+          },
+          {
+              "muscle": "Glutes",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "advanced",
+      "goal": [
+          "endurance",
+          "weight loss"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Hamstrings Squat",
+      "muscle_target": [
+          {
+              "muscle": "Hamstrings",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Glutes",
+              "role": "Secondary"
+          },
+          {
+              "muscle": "Quads",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "advanced",
+      "goal": [
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Triceps Swing",
+      "muscle_target": [
+          {
+              "muscle": "Triceps",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Chest",
+              "role": "Secondary"
+          },
+          {
+              "muscle": "Core",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Machine",
+      "intensity": "advanced",
+      "goal": [
+          "endurance",
+          "strength building"
+      ],
+      "isSet": false,
+      "ppl": "push"
+  },
+  {
+      "name": "Shoulders Dip",
+      "muscle_target": [
+          {
+              "muscle": "Shoulders",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Chest",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Machine",
+      "intensity": "advanced",
+      "goal": [
+          "endurance"
+      ],
+      "isSet": false,
+      "ppl": "push"
+  },
+  {
+      "name": "Hamstrings Dip",
+      "muscle_target": [
+          {
+              "muscle": "Hamstrings",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "advanced",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Chest Fly",
+      "muscle_target": [
+          {
+              "muscle": "Chest",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "advanced",
+      "goal": [
+          "weight loss",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Back Pull",
+      "muscle_target": [
+          {
+              "muscle": "Back",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Rear Deltoids",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "advanced",
+      "goal": [
+          "weight loss",
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Core Press",
+      "muscle_target": [
+          {
+              "muscle": "Core",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Triceps",
+              "role": "Secondary"
+          },
+          {
+              "muscle": "Shoulders",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Bodyweight",
+      "intensity": "advanced",
+      "goal": [
+          "strength building"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Core Fly",
+      "muscle_target": [
+          {
+              "muscle": "Core",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Triceps",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "advanced",
+      "goal": [
+          "endurance"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Quads Thrust",
+      "muscle_target": [
+          {
+              "muscle": "Quads",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Glutes",
+              "role": "Secondary"
+          },
+          {
+              "muscle": "Hamstrings",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Kettlebell",
+      "intensity": "advanced",
+      "goal": [
+          "weight loss"
+      ],
+      "isSet": true,
+      "ppl": "legs"
+  },
+  {
+      "name": "Biceps Dip",
+      "muscle_target": [
+          {
+              "muscle": "Biceps",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Back",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Machine",
+      "intensity": "advanced",
+      "goal": [
+          "strength building"
+      ],
+      "isSet": false,
+      "ppl": "pull"
+  },
+  {
+      "name": "Triceps Crunch",
+      "muscle_target": [
+          {
+              "muscle": "Triceps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Machine",
+      "intensity": "advanced",
+      "goal": [
+          "weight loss"
+      ],
+      "isSet": false,
+      "ppl": "push"
+  },
+  {
+      "name": "Calves Fly",
+      "muscle_target": [
+          {
+              "muscle": "Calves",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Smith Machine",
+      "intensity": "advanced",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": false,
+      "ppl": "legs"
+  },
+  {
+      "name": "Rear Deltoids Squat",
+      "muscle_target": [
+          {
+              "muscle": "Rear Deltoids",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "advanced",
+      "goal": [
+          "weight loss",
+          "strength building"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Triceps Fly",
+      "muscle_target": [
+          {
+              "muscle": "Triceps",
+              "role": "Primary"
+          },
+          {
+              "muscle": "Core",
+              "role": "Secondary"
+          }
+      ],
+      "equipment": "Machine",
+      "intensity": "advanced",
+      "goal": [
+          "endurance",
+          "strength building"
+      ],
+      "isSet": false,
+      "ppl": "push"
+  },
+  {
+      "name": "Advanced Incline Bench Press",
+      "muscle_target": [
+          {
+              "muscle": "Chest",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "advanced",
+      "goal": [
+          "muscle gain",
+          "strength building"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Advanced Overhead Shoulder Press",
+      "muscle_target": [
+          {
+              "muscle": "Shoulders",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "advanced",
+      "goal": [
+          "strength building"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Advanced Tricep Pushdown",
+      "muscle_target": [
+          {
+              "muscle": "Triceps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Cable Machine",
+      "intensity": "advanced",
+      "goal": [
+          "strength building"
+      ],
+      "isSet": true,
+      "ppl": "push"
+  },
+  {
+      "name": "Dumbbell Shrug",
+      "muscle_target": [
+          {
+              "muscle": "Traps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Smith Machine Shrug",
+      "muscle_target": [
+          {
+              "muscle": "Traps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Smith Machine",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Resistance Band Shrug",
+      "muscle_target": [
+          {
+              "muscle": "Traps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Resistance Band",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Dumbbell Upright Row",
+      "muscle_target": [
+          {
+              "muscle": "Traps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Cable Shrug",
+      "muscle_target": [
+          {
+              "muscle": "Traps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Cable Machine",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Trap Bar Shrug",
+      "muscle_target": [
+          {
+              "muscle": "Traps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Trap Bar",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Smith Machine Upright Row",
+      "muscle_target": [
+          {
+              "muscle": "Traps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Smith Machine",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Kettlebell Shrug",
+      "muscle_target": [
+          {
+              "muscle": "Traps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Kettlebell",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "EZ Bar Shrug",
+      "muscle_target": [
+          {
+              "muscle": "Traps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "EZ Bar",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Seated Dumbbell Shrug",
+      "muscle_target": [
+          {
+              "muscle": "Traps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Standing Barbell Shrug",
+      "muscle_target": [
+          {
+              "muscle": "Traps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Standing Cable Upright Row",
+      "muscle_target": [
+          {
+              "muscle": "Traps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Cable Machine",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Plate Shrug",
+      "muscle_target": [
+          {
+              "muscle": "Traps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Weight Plate",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Trap Bar Upright Row",
+      "muscle_target": [
+          {
+              "muscle": "Traps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Trap Bar",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Single Arm Dumbbell Shrug",
+      "muscle_target": [
+          {
+              "muscle": "Traps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Smith Machine Reverse Shrug",
+      "muscle_target": [
+          {
+              "muscle": "Traps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Smith Machine",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Standing Resistance Band Shrug",
+      "muscle_target": [
+          {
+              "muscle": "Traps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Resistance Band",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Barbell Upright Row",
+      "muscle_target": [
+          {
+              "muscle": "Traps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Single Arm Cable Shrug",
+      "muscle_target": [
+          {
+              "muscle": "Traps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Cable Machine",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Kettlebell Upright Row",
+      "muscle_target": [
+          {
+              "muscle": "Traps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Kettlebell",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Overhead Shrug",
+      "muscle_target": [
+          {
+              "muscle": "Traps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Incline Dumbbell Shrug",
+      "muscle_target": [
+          {
+              "muscle": "Traps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Machine Shrug",
+      "muscle_target": [
+          {
+              "muscle": "Traps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Shrug Machine",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Incline Barbell Shrug",
+      "muscle_target": [
+          {
+              "muscle": "Traps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Standing Barbell Shrug Behind the Back",
+      "muscle_target": [
+          {
+              "muscle": "Traps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Barbell",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Single Arm Kettlebell Shrug",
+      "muscle_target": [
+          {
+              "muscle": "Traps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Kettlebell",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Standing Resistance Band Upright Row",
+      "muscle_target": [
+          {
+              "muscle": "Traps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Resistance Band",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Weighted Shrug",
+      "muscle_target": [
+          {
+              "muscle": "Traps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Dumbbells",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  },
+  {
+      "name": "Smith Machine Shoulder Shrug",
+      "muscle_target": [
+          {
+              "muscle": "Traps",
+              "role": "Primary"
+          }
+      ],
+      "equipment": "Smith Machine",
+      "intensity": "beginner",
+      "goal": [
+          "muscle gain"
+      ],
+      "isSet": true,
+      "ppl": "pull"
+  }
+]
